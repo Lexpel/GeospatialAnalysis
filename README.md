@@ -1,4 +1,4 @@
-Geospatial Project Codes
+Geospatial Project Codes.
 This repository is a collection of code examples for geospatial projects utilizing various libraries popular in the field.
 
 What's Included
